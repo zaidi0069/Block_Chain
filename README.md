@@ -13,4 +13,16 @@ git remote add origin https://github.com/zaidi0069/BlockChain.git
 git push origin Dev
 git checkout -b main
 git merge Dev
-
+git log 
+git diff
+git diff --staged
+got log main...Dev
+git show [SHA]
+git fetch origin
+git fetch https://github.com/zaidi0069/Block_Chain.git 
+git stash
+git stash list
+git stash pop
+git stash drop
+git push -m "updated readme" 
+ git push origin Dev        
